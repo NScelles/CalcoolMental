@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CalCoolette</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Score</string>
+    <string name="title_notifications">Detail du Projet</string>
+    <string name="play_button_home_menu">Jouer</string>
+    <string name="text_preview_result">Resultat :</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Trop Grand</string>
+    <string name="bonne_reponse">Cool</string>
+    <string name="mauvaise_reponse">Mauvaise réponse</string>
+    <string name="temps_restant">Temps restant:</string>
+    <string name="pop_up_title">Terminé</string>
+    <string name="pop_up_subtitle_1">Votre score :</string>
+    <string name="pop_up_subtitle_2">point(s)</string>
+    <string name="register_button">Enregistrer</string>
+    <string name="pop_up_hint">Votre pseudo</string>
+    <string name="table_col_two">Joueur</string>
+    <string name="table_col_three" translatable="false">Score</string>
+    <string name="table_col_one" translatable="false">n°</string>
+    <string name="erreur">Vie(s) : </string>
+    <string name="textRemarque">Calcooler !!</string>
+    <string name="multiplicateurDeux">Double</string>
+    <string name="multiplicateurTrois">Triple</string>
+    <string name="multiplicateurQuatre">Quadruple</string>
+    <string name="multiplicateurCinq">Penta</string>
+    <string name="multiplicateurSix">Hexa</string>
+    <string name="multiplicateurSept">Hepta</string>
+    <string name="multiplicateurHuit">Octo</string>
+    <string name="multiplicateurNeuf">Ennéa</string>
+    <string name="multiplicateurDix">Déca</string>
+    <string name="multiplicateurOnze">Hendéca</string>
+    <string name="multiplicateurDouze">Dodeca</string>
+    <string name="multiplicateurQuandTesTropFort">Ok, Tu es trop</string>
+    <string name="multiplicateurTrop">Trop</string>
+</resources>

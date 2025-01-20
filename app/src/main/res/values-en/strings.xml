@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalCoolette</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Scoreboard</string>
+    <string name="title_notifications">Project details</string>
+    <string name="play_button_home_menu">Play</string>
+    <string name="text_preview_result">Result :</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Too High</string>
+    <string name="bonne_reponse">Cool</string>
+    <string name="mauvaise_reponse">Wrong Answer</string>
+    <string name="temps_restant">Time left:</string>
+    <string name="pop_up_title">Finish</string>
+    <string name="pop_up_subtitle_1">Your score :</string>
+    <string name="pop_up_subtitle_2">point(s)</string>
+    <string name="register_button">Register</string>
+    <string name="pop_up_hint">Your pseudo</string>
+    <string name="table_col_two">Player</string>
+    <string name="erreur">life: </string>
+    <string name="textRemarque">Calcool !!</string>
+    <string name="multiplicateurDeux">Double</string>
+    <string name="multiplicateurTrois">Triple</string>
+    <string name="multiplicateurQuatre">Quadra</string>
+    <string name="multiplicateurCinq">Penta</string>
+    <string name="multiplicateurSix">Hexa</string>
+    <string name="multiplicateurSept">Hepta</string>
+    <string name="multiplicateurHuit">Octa</string>
+    <string name="multiplicateurNeuf">Ennea</string>
+    <string name="multiplicateurDix">Deca</string>
+    <string name="multiplicateurOnze">Hendeca</string>
+    <string name="multiplicateurDouze">Dodeca</string>
+    <string name="multiplicateurQuandTesTropFort">Ok, you are too</string>
+    <string name="multiplicateurTrop">Too</string>
+
+</resources>
