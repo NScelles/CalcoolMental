@@ -62,8 +62,6 @@ Voici un aperçu de l'application **CalcoolMental** en action :
 |:---------------:|:------------------:|:---------:|
 | ![Accueil](screenshots/home.png) | ![Calcul](screenshots/exercise.png) | ![Résultats](screenshots/results.png) |
 
-> 📝 *Ces captures d'écran sont à titre d'exemple. Pensez à les placer dans un dossier `screenshots/` dans votre dépôt.*
-
 ---
 
 🎨 **Interface claire et intuitive**  
